@@ -16,6 +16,7 @@
 1. Is there a hierarchial structure? Seniority? People with more experience do?
 2. If company is a startup - ask about startup culture, wearing multiple hats - if that is a thing there
 3. If interviewer had a previous job, ask for comparison between that job and the current company
+4. Coronavirus environment
 
 # About the team:
 1. How often do employees have 1-1's with the manager?
@@ -73,7 +74,6 @@ Ideal member:
 
 
 
-
 Student loan debt, turbo tax of student loan
 Web app, information about loan, income, employment history - identify different repayment program
 Store their private information, where do these forgive program come from? Who research these student loan?
@@ -81,3 +81,12 @@ Mostly User interface work? Choose to enroll how?
 How do you make money? Licensing fee
 How long has you been around? 5 engineers? What tech stack do you use?
 lamp stack - nginx - php
+
+
+threee pillar: people, platform, intelligence
+
+people: provider (doctor, pharmacist, nurse, health coach, etc.)
+platform: engineer, data pipeline, data
+
+30 people team - engineering team.
+infrastructure, qa, experience team
