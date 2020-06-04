@@ -44,8 +44,9 @@
 3. How do you think I performed during this interview?
 
 
-<!-- Change between start-up to citadel -->
-Performance inplication
+
+
+
 
 
 

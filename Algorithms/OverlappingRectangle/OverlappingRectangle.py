@@ -9,15 +9,6 @@ class Rectangle:
         self.y1 = y1
         self.x2 = x2
         self.y2 = y2
-        
-    def isOverlapped(self, other):
-        x1 = max(self.x1, other.x1)
-        x2 = min(self.x2, other.x2)
-        y1 = max(self.y1, other.y1)
-        y2 = min(self.y2, other.y2)
-        is_hor_overlap =  x1 < x2
-        is_ver_overlap =  y1 < y2
-        return is_hor_overlap and is_ver_overlap
     
     def overlap_rectangle(self, other):
         if not self.isOverlapped(other): return None
