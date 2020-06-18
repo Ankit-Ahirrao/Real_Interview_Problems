@@ -17,6 +17,7 @@
 2. If company is a startup - ask about startup culture, wearing multiple hats - if that is a thing there
 3. If interviewer had a previous job, ask for comparison between that job and the current company
 4. Coronavirus environment
+5. How do you feel about the environment of the team?
 
 # About the team:
 1. How often do employees have 1-1's with the manager?
@@ -28,7 +29,7 @@
 
 # About company:
 1. Do you use your own product?
-2. What does career growth look like within this role? 
+2. What does career growth look like within this role?
 3. Are there opportunities to switch teams/learn new technologies? If so, what does that look like?
 4. How does a business decision get trickled down into the software engineering team? Does it often come from the product team and then tell the software or software team can take initiative
 
@@ -43,51 +44,11 @@
 2. What feedback can you give me to improve?
 3. How do you think I performed during this interview?
 
-
-
-
-
-
-
-
-Recently joined Gympass
-Membership, partner, large corporation
-Most of the time work on one focus group - partner group in NY?
-Build an ecosystem fitness and health
-Digital platform to serve live streaming, podcast
-
-Pay the gym per visit
-Software, advice, supply, equipment
-
-Are you in NY?
-Presence in EU, Brazil, North America
-
-Supply, sales, finance, marketing, design, engineer
-
-POC mode?
-Ideal member:
-    Collaboration - not just coding
-    This role is more front or back end?
-    Freedom to do things in the way u want
-    Technical enough to teach junior member
-    How are you looking to translate legacy code?
-    Scalability? System design? features? Migrating to microservices?
-
-
-
-Student loan debt, turbo tax of student loan
-Web app, information about loan, income, employment history - identify different repayment program
-Store their private information, where do these forgive program come from? Who research these student loan?
-Mostly User interface work? Choose to enroll how?
-How do you make money? Licensing fee
-How long has you been around? 5 engineers? What tech stack do you use?
-lamp stack - nginx - php
-
-
-threee pillar: people, platform, intelligence
-
-people: provider (doctor, pharmacist, nurse, health coach, etc.)
-platform: engineer, data pipeline, data
-
-30 people team - engineering team.
-infrastructure, qa, experience team
+How do you feel about the future of the company?
+Project we have on AWS - what services are we using?
+Vision of the future? How many people?
+How product goes? What is lthat like? product mnaager lense?
+How can i help your like easier?
+Why move onto product?
+Measuring success? Who are other functions?
+What's your mission?
